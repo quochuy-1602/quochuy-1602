@@ -26,7 +26,8 @@ AI Engineer with nearly 2 years of hands-on experience in Computer Vision, Machi
 | Project | Description | Stack |
 |---|---|---|
 | [AirSense Vietnam](https://github.com/quochuy-1602/AirSense-Vietnam) | End-to-end AWS data pipeline + ML forecasting + anomaly detection for air quality across 5 Vietnamese cities | AWS, XGBoost, SHAP, Streamlit, Terraform |
-| [ECG Anomaly Detection](https://github.com/quochuy-1602/ecg-anomaly-detection) | Offline AI reporting system for ECG classification and automated report generation | PyTorch, GPT-2, FastAPI, Docker |
+| [Heart Disease Diagnosis](https://github.com/quochuy-1602/heart-disease-diagnosis) | End-to-end ML pipeline for heart disease prediction — 8 models with Optuna tuning, SHAP interpretability, AUC 0.947, deployed as Streamlit web app | XGBoost, SHAP, Optuna, Streamlit |
+| [ECG Anomaly Detection](https://github.com/quochuy-1602/ecg-anomaly-detection) | Offline AI reporting system for ECG classification and automated cardiovascular report generation | PyTorch, FastAPI, Docker |
 | [Melanoma Cancer Detection](https://github.com/quochuy-1602/Melanoma_Cancer_Detection) | Skin cancer classification using CNN architectures on HAM10000 dataset | PyTorch, AlexNet, VGG16, ResNet50 |
 
 ---
