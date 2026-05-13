@@ -3,7 +3,7 @@
 AI Engineer with nearly 2 years of hands-on experience in Computer Vision, Machine Learning, Data Science, and LLM/GenAI. Currently pursuing Master of Data Science at VNUHCM and completing the AIO-2025 intensive program.
 
 📍 Ho Chi Minh City, Vietnam  
-📧 quochuyhcmus@gmail.com  
+📧 huynq.hcmus@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/nquochuy)
 
 ---
