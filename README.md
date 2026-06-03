@@ -47,6 +47,8 @@ AI Engineer with nearly 2 years of hands-on experience in Computer Vision, Machi
 | Module 9 | Deep Learning Applications for Images | 895/1000 | [View](https://lms.aivietnam.edu.vn/verification/accomplishments/77304941) |
 | Module 10 | Deep Learning Applications for Text | 1000/1000 | [View](https://lms.aivietnam.edu.vn/verification/accomplishments/37056820) |
 | Module 11 | Generative Models & GNNs | 1000/1000 | [View](https://lms.aivietnam.edu.vn/verification/accomplishments/36616163) |
+| Module 12 | Advanced Topics & LVLMs | 1000/1000 | [View](https://lms.aivietnam.edu.vn/verification/accomplishments/75349166) |
+
 
 ### Other Certifications
 - 🏆 AWS Certified Cloud Practitioner — CLF-C02 (Amazon Web Services)
