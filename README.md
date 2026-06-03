@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Quoc Huy 👋
 
-AI Engineer with nearly 2 years of hands-on experience in Computer Vision, Machine Learning, Data Science, and LLM/GenAI. Currently pursuing Master of Data Science at VNUHCM and completing the AIO-2025 intensive program.
+AI Engineer/Data Scientist with nearly 2 years of hands-on experience in Computer Vision, Machine Learning, Data Science, and LLM/GenAI. Currently pursuing Master of Data Science at VNUHCM and completing the AIO-2025 intensive program.
 
 📍 Ho Chi Minh City, Vietnam  
 📧 huynq.hcmus@gmail.com
